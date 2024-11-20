@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg-canvas" viewBox="243.96389071565 77.489785903488 312.07772577741 312.07772577741" width="1600" height="1600" preserveAspectRatio="none" version="1.1" style="background-color:#ffffff"><!--滤镜--><defs></defs><!-- 背景 --><g id="background"><rect x="0" y="0" fill="#ffffff" width="800" height="600"></rect></g><!--元素--><g id="shape_CHqaasSnIT" ref="shape_CHqaasSnIT" key="shape_CHqaasSnIT" mask=""><g transform="translate(318.92114596391536,138.8014447701032) rotate(0,81.08160764043306,94.72720402209463) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter=""><!--普通元素--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="图层_1" x="0px" y="0px" width="162.16321528086613" height="189.45440804418925" viewBox="40.29999923706055 20 133.09999084472656 155.5" style="enable-background:new 0 0 200 200;" xml:space="preserve" class="style-removed" preserveAspectRatio="none" data-parent="shape_CHqaasSnIT">
+
+<circle cx="63.5" cy="47.3" r="9.6" fill="#2EA7E0" stroke-width="0"></circle>
+<circle cx="53" cy="26.1" r="6.1" fill="#2EA7E0" stroke-width="0"></circle>
+<g>
+	<circle cx="114.1" cy="107.3" r="59.3" fill="#1D8FCD" stroke-width="0"></circle>
+	<circle cx="99.6" cy="116.2" r="59.3" fill="#036EB8" stroke-width="0"></circle>
+	<path d="M99.6,56.9c-8.3,0-16.1,1.7-23.3,4.7c-13.2,10.9-21.5,27.3-21.5,45.7c0,32.8,26.6,59.3,59.3,59.3   c8.3,0,16.1-1.7,23.3-4.7c13.2-10.9,21.5-27.3,21.5-45.7C158.9,83.4,132.3,56.9,99.6,56.9z" fill="#2EA7E0" stroke-width="0"></path>
+</g>
+<path d="M136.9,108.4l-15,15c-8.3,8.3-21.8,8.3-30.1,0l0,0c-8.3-8.3-8.3-21.8,0-30.1l0,0c8.3-8.3,21.8-8.3,30.1,0  L136.9,108.4z" fill="#FFFFFF" stroke-width="0"></path>
+</svg></g></g></svg>
